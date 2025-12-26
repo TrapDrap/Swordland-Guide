@@ -51,7 +51,7 @@ No solo attacks are permitted on any structure unless you have scouted and are c
 - Always invite those next to you when making a rally. Optionally invite the strongest players too. Make sure to watch out for rally invites.
 - When joining rallies, always make sure you have sped up so your troops can arrive before the rally departs.
 
-Always leave enough troops home to defend, OR leave NO TROOPS home (garrison structures with all troops). For a good standard, never leave between 1-200k troops home, either zero or more than 200k, preferably 250-300k+. If an attacker attacks your city with zero troops in it, you do not suffer any troops injuries, you only have to extinguish, so if you go without defending your city, be wary at all times and ready to extinguish immediately if attacked.
+Always leave enough troops home to defend, OR leave NO TROOPS home (garrison structures with all troops). For a good standard, never leave between 1-200k troops home, either zero or more than 200k, preferably 250-300k+. If an attacker attacks your city with zero troops in it, you do not suffer any troops injuries, you only have to extinguish, so if you go without defending your city, be wary at all times and ready to extinguish immediately if attacked. It is recommended for Garrison Leads and Berserkers to maintain 250k+ troops home, and Garrison joiners shall leave Zero troops home.
 
 ALWAYS extinguish if you are garrisoning a building! Send all your troops out if you have someone much stronger harassing your city, either to garrison, reinforce stronger allies, or to join rallies, and just keep extinguishing.
 
