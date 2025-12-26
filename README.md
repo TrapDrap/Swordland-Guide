@@ -11,7 +11,7 @@ Firstly, your presence at your Swordland match is of utmost importance, more peo
 
 Below I will give a detailed summary of our strategy for Swordland, **please read this even if you think you know how to play**, it should be helpful to everybody. Strict rules applies mostly to Legion 1, but the knowledge of these strategies would benefit Legion 2 as well.
 
-**Please read all categories**, you will be assigned a main role, but you may need to dynamic switch and adapt between all three roles depending on the situation in the game.
+**Please read all categories**, you will be assigned a main role, but you may need to dynamically switch and adapt between all three roles depending on the situation in the game.
 
 # Our General Strategy
 Before the battle, make sure to activate Anti-scout (or Counter-recon) in the buffs menu (arrow under your profile at the top right), and optionally, a Troop Capacity Boost, Squad Health, Enemy Attacks Down buff. Lethality Boost is also good for berserkers. F2P or low spenders should only activate the lower tier buff, do not spend 20k diamonds please.
