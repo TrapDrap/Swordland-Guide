@@ -7,7 +7,9 @@ Hello everyone, below will be an overview of the rules regarding our swordland s
 
 As we get deeper into Swordland, we need to work together with a strategy in order to win. As you guys probably seen last time, we lost by 360 points, it was a sight we don't want seeing again.
 
-Below I will give a summary of our strategy, **please read this even if you think you know how to play**, it should be helpful to everybody.
+Firstly, your presence at your Swordland match is of utmost importance, more people, more strength. The combined combat powers of a legion's top 20 determines its power, and matches us against stronger ememies. If you do not show up, we will go against one more of you in the enemy team, with you absent, putting us at a double disadvantage. And any count over 20 participants will give us a big advantage over the enemy. This is why we require people to respond to a message regarding their availability, we expect everyone to be able to respond to messages, while Battle Request menu is sometimes not understood by some people and some may request a legion they aren't able to attend.
+
+Below I will give a detailed summary of our strategy for Swordland, **please read this even if you think you know how to play**, it should be helpful to everybody. Strict rules applies mostly to Legion 1, but the knowledge of these strategies would benefit Legion 2 as well.
 
 **Please read all categories**, you will be assigned a main role, but you may need to dynamic switch and adapt between all three roles depending on the situation in the game.
 
