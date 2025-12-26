@@ -1,5 +1,6 @@
 # Swordland-Guide
 **Kingshot Swordland Guide for CSR**
+
 *If you have any questions about this guide, please bring it forward to Snoo.*
 
 Hello everyone, below will be an overview of the rules regarding our swordland strategy this weekend. 🎁
