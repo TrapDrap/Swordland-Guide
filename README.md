@@ -1,5 +1,5 @@
 # Swordland-Guide
-**Kingshot Swordland Guide for CSR**
+**Kingshot Swordland Rules and Guidelines for CSR**
 
 *If you have any questions about this guide, please bring it forward to Snoo.*
 
