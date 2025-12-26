@@ -29,7 +29,7 @@ Below is the priority of structures we are going for, for the most optimal struc
 # For all Berserkers (and strong Garrisoners)
 For the first 20 minutes of the battle, strictly NO full march solo attacks allowed on any castle that are less than 4 TC levels lower from you. For example, if you are TG1, you can attack TC27 maximum, TG3 > TC 29, TC 30 > TC 26, etc.
 
-After the first 20 minutes, if you still havent reached your personal point target of 180k points, feel free to go attack targets you can beat. Otherwise, shift your role to rally/garrison structures instead, and defend your city with troops at home.
+After the first 20 minutes, if you still haven't reached your personal point target of 180k points, feel free to go attack targets you can beat. Otherwise, shift your role to rally/garrison structures instead, and defend your city with troops at home.
 
 If you have already reached the target points, please leave the lower level targets for others to reach their personal point targets. You shall only attack lower level targets to burn them away, ONLY IF they are at a structure they are garrisoning, DO NOT COMPETE FOR PERSONAL POINT LEADERBOARD BY ATTACKING! Defending and garrisoning structures enemies are attacking also gives points!
 
@@ -44,7 +44,7 @@ Once you have an idea of their troop count (generally this is easiest to get whe
 
 No solo attacks are permitted on any structure unless you have scouted and are certain you can beat their garrison. Same principle, the garrisoner should be 2+ TC levels below you, and have the same or lower amount of troops. Launch a rally otherwise, invite those who are at the structure with you to join.
 
-# For Garrison leads and holders
+# For Garrison leads and joiners
 **Rules regarding rally making (and joining):**
 - Only make rallies to structures you are next to, and use your strongest combat heroes.
 - Rallies must be at least 2 minutes, or 3 minutes, unless you have multiple people next to you ready to join. (5 minute rallies are too long, avoid those too, judge by strength of enemy in the structure, and the strength you need, longer rallies generally guarantee more people can join)
