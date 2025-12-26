@@ -1,19 +1,19 @@
 # Swordland-Guide
- Kingshot Swordland Guide for CSR
--# If you have any questions about this guide, please bring it forward to Snoo.
+**Kingshot Swordland Guide for CSR**
+*If you have any questions about this guide, please bring it forward to Snoo.*
 
 Hello everyone, below will be an overview of the rules regarding our swordland strategy this weekend. 🎁
 
 As we get deeper into Swordland, we need to work together with a strategy in order to win. As you guys probably seen last time, we lost by 360 points, it was a sight we don't want seeing again.
 
-Below I will give a summary of our strategy, please read this even if you think you know how to play, it should be helpful to everybody.
+Below I will give a summary of our strategy, **please read this even if you think you know how to play**, it should be helpful to everybody.
 
-Please read all categories, you will be assigned a main role, but you may need to dynamic switch and adapt between all three roles depending on the situation in the game.
+**Please read all categories**, you will be assigned a main role, but you may need to dynamic switch and adapt between all three roles depending on the situation in the game.
 
-# General Strategy:
-Before the battle, make sure to activate Anti-scout (or Counter-recon) in the buffs menu (arrow under your profile at the top right), and optionally, a Troop Capacity Boost, Squad Health, Enemy Attacks Down buff. Lethality is also good for berserkers. F2P or low spenders should only activate the lower tier buff.
+# Our General Strategy
+Before the battle, make sure to activate Anti-scout (or Counter-recon) in the buffs menu (arrow under your profile at the top right), and optionally, a Troop Capacity Boost, Squad Health, Enemy Attacks Down buff. Lethality Boost is also good for berserkers. F2P or low spenders should only activate the lower tier buff, do not spend 20k diamonds please.
 
-During the battle, make sure to pay attention to Map markers set by R4s for our targets, read chat if you have the mental capacity to do so as well. We R4s will be observing structures, but if you believe you need help at a structure, share it in chat!
+During the battle, make sure to pay attention to Map markers set by R4s for our target switches and garrison help requests, read chat if you have the mental capacity to do so as well. We R4s will be observing structures, but if you need help at a structure, share it in chat!!
 
 Below is the priority of structures we are going for the most optimal structures to gain points:
 1. Bell Tower first to decrease first occupation time.
@@ -23,7 +23,7 @@ Below is the priority of structures we are going for the most optimal structures
 5. Hall of Reformation, majorly increase our damage and defensive potential. This applies a multiplicative buff to our stats and debuff to the opponent.
 6. Abbeys, if possible later in the game. We can't get too greedy about them, it is hard to maintain garrison of everything, avoid teleporting to Abbeys unless it is for gathering dropped crates from garrison switch, or directed by R4s, we want to keep priority to the main point structures that gives us an advantage. Depending on the strength of the opponent, if we don't have enough power to maintain garrison at all times of all above buildings, it may be best to leave Abbeys to them and focus on the above buildings. 
 
-# For all Berserkers
+# For all Berserkers (and strong Garrisoners)
 For the first 20 minutes of the battle, strictly NO full march solo attacks allowed on any castle that are less than 4 TC levels lower from you. For example, if you are TG1, you can attack TC27 maximum, TG3 > TC 29, TC 30 > TC 26, etc.
 
 After the first 20 minutes, if you still havent reached your personal point target of 180k points, feel free to go attack targets you can beat. Otherwise, shift your role to rally/garrison structures instead, and defend your city with troops at home.
