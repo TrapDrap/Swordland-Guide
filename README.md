@@ -18,7 +18,7 @@ Before the battle, make sure to activate Anti-scout (or Counter-recon) in the bu
 
 During the battle, make sure to pay attention to Map markers set by R4s for our target switches and garrison help requests, read chat if you have the mental capacity to do so as well. We R4s will be observing structures, but if you need help at a structure, share it in chat!!
 
-Below is the priority of structures we are going for the most optimal structures to gain points:
+Below is the priority of structures we are going for, for the most optimal structures to gain points:
 1. Bell Tower first to decrease first occupation time.
 2. Stable should be second, to decrease time required to teleport.
 3. Sanctums after, they offer the most points per second.
