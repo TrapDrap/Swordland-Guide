@@ -43,7 +43,7 @@ Once you have an idea of their troop count (generally this is easiest to get whe
 No solo attacks are permitted on any structure unless you have scouted and are certain you can beat their garrison. Same principle, the garrisoner should be 2+ TC levels below you, and have the same or lower amount of troops. Launch a rally otherwise, invite those who are at the structure with you to join.
 
 # For Garrison leads and holders
-Rules regarding rally making:
+**Rules regarding rally making (and joining):**
 - Only make rallies to structures you are next to, and use your strongest combat heroes.
 - Rallies must be at least 2 minutes, or 3 minutes, unless you have multiple people next to you ready to join. (5 minute rallies are too long, avoid those too, judge by strength of enemy in the structure, and the strength you need, longer rallies generally guarantee more people can join)
 - Always invite those next to you when making a rally. Optionally invite the strongest players too. Make sure to watch out for rally invites.
