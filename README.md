@@ -27,7 +27,7 @@ Below is the priority of structures we are going for, for the most optimal struc
 6. Abbeys, if possible later in the game. We can't get too greedy about them, it is hard to maintain garrison of everything, avoid teleporting to Abbeys unless it is for gathering dropped crates from garrison switch, or directed by R4s, we want to keep priority to the main point structures that gives us an advantage. Depending on the strength of the opponent, if we don't have enough power to maintain garrison at all times of all above buildings, it may be best to leave Abbeys to them and focus on the above buildings. 
 
 # For all Berserkers (and strong Garrisoners)
-For the first 20 minutes of the battle, strictly NO full march solo attacks allowed on any castle that are less than 3-4 TC levels lower from you. For example, if you are TG1, you can attack TC27 maximum, TG28 if careful and scouted. Exception can be made if only to help out a garrison member repeatedly being attacked, scout, and time your attacks to arrive before their troops return from attacking us.
+For the first 20 minutes of the battle, strictly NO full march solo attacks allowed on any castle that are less than 3-4 TC levels lower from you. For example, if you are TG1, you can attack TC27 maximum, TC28 if careful and scouted. Exception can be made if only to help out a garrison member repeatedly being attacked, scout, and time your attacks to arrive before their troops return from attacking us.
 
 After the first 20 minutes, if you still haven't reached your personal point target of 180k points, feel free to go attack targets you can beat. Otherwise, shift your role to rally/garrison structures instead, and defend your city with troops at home.
 
