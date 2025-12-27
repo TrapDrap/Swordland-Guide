@@ -40,6 +40,8 @@ Once you have locked your target, always attack with only ONE full march, your s
 
 Always scout your enemies before attacking, don't attack if they have too many troops or have too strong heroes home for you to beat. In case an individual you want to attack has Anti-scout activated and you cannot scout them, you can also send ~5000-10000 total suicidal troops with your strongest heroes to get a battle report, before attacking with a full march.
 
+If an enemy is attacking you first, the optimal strategy is to defend your city until all their marches have hit you (you may want to temporarily speedup recall from the nearby structure you may be garrisoning if the opponent is equally or stronger than you), and then send back an attack timed to arrive when their remaining troops returned. Double the damage, injure their troops both defensively and offensively! 🥳
+
 Once you have an idea of their troop count (generally this is easiest to get when enemies forget to activate their anti-scout at the start) take mental note of their total Power Number as well, and if they have sent out troops to garrison buildings, this will help you estimate their troops remaining without having to scout again. Very useful to know if they have healed their troops back before launching a surprise attack.
 
 No solo attacks are permitted on any structure unless you have scouted and are certain you can beat their garrison. Same principle, the garrisoner should be 2+ TC levels below you, and have the same or lower amount of troops. Launch a rally otherwise, invite those who are at the structure with you to join.
